@@ -1,11 +1,22 @@
 package epn.sistema;
 
-public class SistemaEPN {
+public class SistemaEPN implements IAccion {
     private String version;
     private String nombre;
 
-    // CORRECCIÓN: Añadimos modificador público y un cuerpo con retorno por defecto
+    // Se deben implementar obligatoriamente los métodos de IAccion:
+    
+    @Override
     public boolean on() {
-        return false; 
+        // Comportamiento por defecto o base
+        System.out.println("Iniciando componente base de SistemaEPN...");
+        return true;
+    }
+
+    @Override
+    public boolean off() {
+        // Comportamiento por defecto o base
+        System.out.println("Apagando componente base de SistemaEPN...");
+        return true;
     }
 }

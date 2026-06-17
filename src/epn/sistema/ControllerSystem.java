@@ -7,7 +7,7 @@ public class ControllerSystem {
         Atenea      atenea      = new Atenea();
         SAEW        saew        = new SAEW();
         AppMobile   appMobile   = new AppMobile();
-        
+        SistemaEPN appMobile = new AppMobile();
         
         ArrayList<SistemaEPN> lista = new ArrayList<>();
         lista.add(atenea);
