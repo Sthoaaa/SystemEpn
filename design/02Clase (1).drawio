@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="i736HXAQbxdChMEDRemP" name="Page-1">
-        <mxGraphModel dx="798" dy="1778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="429" dy="1359" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -157,33 +157,36 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="156" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Class&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ControllerSystem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ on():boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ off():boolean&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+                <mxCell id="156" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;Class&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ControllerSystem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ on():boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ off():boolean&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
                     <mxGeometry x="644" y="334" width="160" height="115" as="geometry"/>
                 </mxCell>
-                <mxCell id="161" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IAccion&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+ on():Boolean&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+ off():Boolean&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+                <mxCell id="161" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IAccion&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+ on():Boolean&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;+ off():Boolean&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
                     <mxGeometry x="824" y="334.5" width="198" height="114.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="164" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.39;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.555;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="161" target="117">
+                <mxCell id="164" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0.39;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.555;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="161" target="117" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="556" y="651" as="sourcePoint"/>
                         <mxPoint x="716" y="651" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="168" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.104;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="169" parent="1" source="138">
+                <mxCell id="168" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.104;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="138" target="169" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="266" y="519" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="169" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;IAccion&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+                <mxCell id="169" value="&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;IAccion&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
                     <mxGeometry x="342" y="540" width="10" height="10" as="geometry"/>
                 </mxCell>
-                <mxCell id="174" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.895;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="175" parent="1" source="129">
+                <mxCell id="174" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.895;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="129" target="175" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="250" y="542" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="175" value="IAccion&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+                <mxCell id="175" value="IAccion&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
                     <mxGeometry x="260" y="540" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="176" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;abstract&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Sistema Epn&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="967" y="155" width="190" height="140" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

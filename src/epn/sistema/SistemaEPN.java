@@ -1,6 +1,6 @@
 package epn.sistema;
 
-public class SistemaEPN implements IAccion {
+public abstract class SistemaEPN SistemaEPN implements IAccion {
     private String version;
     private String nombre;
 
